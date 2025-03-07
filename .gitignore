@@ -1,0 +1,12 @@
+# 🔒 קבצים רגישים - אסור להעלות לגיטהאב!
+key.key
+config.json
+data.json
+.env
+
+# 🔄 קבצים שלא צריכים להופיע בגיטהאב
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+.vscode/
